@@ -1,1 +1,1 @@
-# POSIX-threads-under-Unix-Linux
+# Ant searching for food simulation
