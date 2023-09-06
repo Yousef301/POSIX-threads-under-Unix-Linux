@@ -1,0 +1,7 @@
+SmellRadius:40
+NumberAnt:40
+RunTime:1
+FoodInterval:5
+EatingPortion:5
+PheromoneRadius:50
+WeakPheromoneRadius:10
